@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyD6Qr4XyzZS6Yz-Pu2bXNBWMIRhkU0fHf8",
-    authDomain: "datos-de-formulario-d4251.firebaseapp.com",
-    projectId: "datos-de-formulario-d4251",
-    storageBucket: "datos-de-formulario-d4251.appspot.com",
-    messagingSenderId: "1095781031304",
-    appId: "1:1095781031304:web:09e8b825f1c4a5f608ae3d",
-    measurementId: "G-008H3PS3ZZ"
+    apiKey: "YOUR_KEY",
+    authDomain: "YOUR_AUTHDOMAIN",
+    projectId: "YOU_PROJECT_ID",
+    storageBucket: "YOUR_DATE",
+    messagingSenderId: "YOUR_ID",
+    appId: "YOUR_APP_ID",
+    measurementId: "YOUR_MSJ_ID"
 };
 
 // Initialize Firebase
